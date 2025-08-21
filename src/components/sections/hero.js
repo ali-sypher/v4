@@ -67,9 +67,9 @@ const Hero = () => {
       <p>
         I’m a AI engineer specializing in building (and occasionally designing) exceptional
         AI Applications and Web Apps. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
+        as a freelancer on{' '}
         <a href="https://www.upwork.com/freelancers/~018d0e95e0592abed3" target="_blank" rel="noreferrer">
-          as a freelancer on Upwork.
+          Upwork.
         </a>
         .
       </p>
