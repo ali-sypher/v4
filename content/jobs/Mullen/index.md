@@ -1,12 +1,16 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: '2020-12-21'
+title: 'Director'
+company: 'Cipherduo Tech'
+location: 'United States'
+range: 'December 2020 - Present'
+url: 'https://cipherduotech.com/'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Spearheaded product strategy and technical direction, driving innovation across client solutions.
+- Managed cross-functional teams, overseeing project delivery from planning to deployment.
+- Built and maintained strong client relationships, ensuring long-term partnerships and growth.
+
+
+
+
