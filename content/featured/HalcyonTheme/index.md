@@ -1,7 +1,7 @@
 ---
 date: '1'
 title: 'YIT Scrapper'
-cover: './halcyon.png'
+cover: './YIT.png'
 github: 'https://github.com/ali-sypher/YIT-Scrapping-Tool'
 external: ''
 tech:
