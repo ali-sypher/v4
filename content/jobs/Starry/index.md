@@ -1,12 +1,16 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2021-12-21'
+title: 'Head of Freelance and Outsource Department '
+company: 'The Smart Nexus'
+location: 'Miami, FL'
+range: 'July 2021 - December 2022'
+url: '[https://](https://thesmartnexus.com/)'
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Coordinated end-to-end freelance projects, ensuring timely delivery and quality outcomes.
+- Delivered tailored project solutions by aligning client needs with skilled professionals.
+- Oversaw outsourcing workflows to optimize efficiency and reduce overhead costs.
+
+
+
+
