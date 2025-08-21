@@ -171,13 +171,11 @@ const About = () => {
 
         <StyledPic>
           <div className="wrapper">
-            <StaticImage
+            <img
               className="img"
-              src="../../images/me.jpg"
-              width={500}
-              quality={95}
-              formats={['AUTO', 'WEBP', 'AVIF']}
-              alt="Headshot"
+              src="/ali.jpg"
+              alt="Ali Aliyyan headshot"
+              style={{ borderRadius: "var(--border-radius)", width: "100%" }}
             />
           </div>
         </StyledPic>
