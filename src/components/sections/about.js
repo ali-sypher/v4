@@ -173,7 +173,7 @@ const About = () => {
           <div className="wrapper">
             <img
               className="img"
-              src="/marvin.jpg"
+              src="/meow.jpg"
               alt="Ali Aliyyan headshot"
               style={{ borderRadius: "var(--border-radius)", width: "100%" }}
             />
