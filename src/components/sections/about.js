@@ -145,7 +145,7 @@ const About = () => {
               Fast-forward to today, and I’ve had the privilege of working at{' '}
               <a href="https://zagmersol.com/">a merchant service provider</a>,{' '}
               <a href="https://www.tipsiti.com/">a curator brand</a>,{' '}
-              <a href="https://www.thesmartnexus.com">a big software house</a>, and{' '}
+              <a href="https://www.thesmartnexus.com">a large scale software house</a>, and{' '}
               <a href="https://upwork.com/">as a freelancer</a>. My
               main focus these days is building accessible, inclusive products and digital
               experiences at <a href="https://upwork.com/">as a freelancer on upwork</a> for a variety of
