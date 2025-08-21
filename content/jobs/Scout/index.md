@@ -1,11 +1,12 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
+date: '2022-04-06'
+title: 'Data Scientist (Freelance)'
+company: 'Tarp Brother'
+location: 'Seventeen Mile Rocks, Queensland, Australia'
 range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+url: 'https://www.linkedin.com/in/ali-a-7b7306189/'
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Developed Python automation scripts to streamline workflows and improve business process efficiency.
+- Delivered custom reports and data-driven strategies to solve complex business problems and support decision-making.
+- Conducted market segment analysis to uncover growth opportunities and provide actionable insights.
